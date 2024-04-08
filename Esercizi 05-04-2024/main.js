@@ -37,27 +37,26 @@
 
  // FINE TERZO ESERCIZIO -----------------------------
 
- //INIZIO QUARTO ESERCIZIO
+//INIZIO QUARTO ESERCIZIO ----------------------
 
-//  let primonumeroadd = 8
-//  let secondonumeroadd = 4
-//  let risultatoaddizione = primonumeroadd + secondonumeroadd
-//  console.log (risultatoaddizione)
+ //  let firstnumber = parseFloat(prompt("Inserisci il primo numero:"));
+//  let operazioni = prompt("inserisci l'operazione tra + - * /")
+//  let secondnumber = parseFloat(prompt("Inserisci il secondo numero:"));
+//  let addizione =  (firstnumber + secondnumber)
+//  let sottrazione = (firstnumber - secondnumber)
+//  let moltiplicazione = (firstnumber * secondnumber)
+//  let divisione = (firstnumber / secondnumber)
 
-//  let primonumerosottr = 4
-//  let secondonumerosottr = 2
-//  let risultatosottrazione = primonumerosottr - secondonumerosottr
-//  console.log(risultatosottrazione)
-
-//  let primonumeroper = 4
-//  let secondonumeroper = 2
-//  let risultatomoltiplicazione = primonumeroper * secondonumeroper
-//  console.log(risultatomoltiplicazione)
-
-//  let primonumerodiv = 4
-//  let secondonumerodiv = 2
-//  let risultatodivisione = primonumerodiv / secondonumerodiv
-//  console.log(risultatodivisione)
+// if (operazioni === "+")
+// console.log (alert(addizione))
+// else if (operazioni === "-")
+// console.log (alert(sottrazione))
+// else if (operazioni === "*")
+// console.log (alert(moltiplicazione))
+// else if (operazioni === "/")
+// console.log (alert(divisione))
+// else console.log("operazione non supportata")
+ 
  
 
  //FINE QUARTO ESERCIZIO
